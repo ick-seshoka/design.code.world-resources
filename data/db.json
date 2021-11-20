@@ -1,0 +1,282 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "messenger-landingpage",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-preview.png",
+        "style": {
+          "width": "30.375em",
+          "justifySelf": "center",
+          "bottom": "3em"
+        }
+      },
+      "logo": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-logo.png",
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-logo-title.svg",
+      "description": "A chat application landing page concept inspired by whatsApp and WeChat",
+      "live": "https://ick-seshoka.github.io/messenger-landingpage",
+      "primaryColor": "#38B8A4",
+      "caseStudyOptions": [
+        {
+          "id": "1",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-case-study-option.png"
+        },
+        {
+          "id": "2",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-case-study-option.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "star-wars-films",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-preview.png",
+        "style": {
+          "width": "38.625em",
+          "justifySelf": "center",
+          "right": "5.5em",
+          "top": "4em"
+        }
+      },
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-logo-title.png",
+      "description": "A Star Wars films search directory web application concept",
+      "live": "https://ick-seshoka.github.io/star-wars-films",
+      "primaryColor": "#DFC334",
+      "caseStudyOptions": [
+        {
+          "id": "3",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-case-study-option.png"
+        },
+        {
+          "id": "4",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-case-study-option.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "colors",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-preview.png",
+        "style": {
+          "width": "36.75em",
+          "justifySelf": "end",
+          "bottom": "5em"
+        }
+      },
+      "logo": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-logo.png",
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-logo-title.png",
+      "description": "A Color pallet web application concept, inspired by Material design color picker and shades viewer",
+      "live": "https://ick-seshoka.github.io/colors",
+      "primaryColor": "#63489C",
+      "caseStudyOptions": [
+        {
+          "id": "5",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-case-study-option.png"
+        },
+        {
+          "id": "6",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-case-study-option.png"
+        }
+      ]
+    }
+  ],
+
+  "caseStudies": [
+    {
+      "id": "1",
+      "title": "messenger landing page design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/messenger-landingpage",
+        "live": "https://ick-seshoka.github.io/messenger-landingpage"
+      }
+    },
+    {
+      "id": "2",
+      "title": "messenger landing page code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/messenger-landingpage",
+        "live": "https://ick-seshoka.github.io/messenger-landingpage"
+      }
+    },
+    {
+      "id": "3",
+      "title": "star wars films design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/star-wars-films",
+        "live": "https://ick-seshoka.github.io/star-wars-films"
+      }
+    },
+    {
+      "id": "4",
+      "title": "star wars films code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/star-wars-films",
+        "live": "https://ick-seshoka.github.io/star-wars-films"
+      }
+    },
+    {
+      "id": "5",
+      "title": "colors pallet design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/colors",
+        "live": "https://ick-seshoka.github.io/colors"
+      }
+    },
+    {
+      "id": "6",
+      "title": "colors pallet code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/colors",
+        "live": "https://ick-seshoka.github.io/colors"
+      }
+    }
+  ],
+
+  "journals": [
+    {
+      "id": "1",
+      "project": "messenger-landingpage",
+      "category": "design",
+      "title": "Messenger chat application landing page concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and landing page concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "bottom": "10%",
+          "width": "320px",
+          "backgroundColor": "#38B8A4"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "2",
+      "project": "messenger-landingpage",
+      "category": "code",
+      "title": "Messenger chat application landing page concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and landing page concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "width": "420px",
+          "top": "5%"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "3",
+      "project": "star-wars-films",
+      "category": "design",
+      "title": "Star wars films directory web application concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#DFC334"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "4",
+      "project": "star-wars-films",
+      "category": "code",
+      "title": "Star wars films directory web application concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#DFC334"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "5",
+      "project": "colors",
+      "category": "design",
+      "title": "Colors color pallet web application concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "width": "420px",
+          "top": "5%",
+          "backgroundColor": "#63489C"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "6",
+      "project": "colors",
+      "category": "code",
+      "title": "Colors color pallet web application concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#63489C"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    }
+  ]
+}
