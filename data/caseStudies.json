@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "title": "messenger landing page design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/messenger-landingpage",
+        "live": "https://ick-seshoka.github.io/messenger-landingpage"
+      }
+    },
+    {
+      "id": "2",
+      "title": "messenger landing page code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/messenger-landingpage",
+        "live": "https://ick-seshoka.github.io/messenger-landingpage"
+      }
+    },
+    {
+      "id": "3",
+      "title": "star wars films design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/star-wars-films",
+        "live": "https://ick-seshoka.github.io/star-wars-films"
+      }
+    },
+    {
+      "id": "4",
+      "title": "star wars films code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/star-wars-films",
+        "live": "https://ick-seshoka.github.io/star-wars-films"
+      }
+    },
+    {
+      "id": "5",
+      "title": "colors pallet design case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-case-study-preview.png",
+      "links": {
+        "design": "https://ick-seshoka.github.io/colors",
+        "live": "https://ick-seshoka.github.io/colors"
+      }
+    },
+    {
+      "id": "6",
+      "title": "colors pallet code case study",
+      "preview": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-case-study-preview.png",
+      "links": {
+        "design": "https://github.com/ick-seshoka/colors",
+        "live": "https://ick-seshoka.github.io/colors"
+      }
+    }
+  ]

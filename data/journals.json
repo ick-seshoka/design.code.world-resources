@@ -1,0 +1,133 @@
+[
+    {
+      "id": "1",
+      "project": "messenger-landingpage",
+      "category": "design",
+      "title": "Messenger chat application landing page concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and landing page concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "bottom": "10%",
+          "width": "320px",
+          "backgroundColor": "#38B8A4"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "2",
+      "project": "messenger-landingpage",
+      "category": "code",
+      "title": "Messenger chat application landing page concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and landing page concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "width": "420px",
+          "top": "5%"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "3",
+      "project": "star-wars-films",
+      "category": "design",
+      "title": "Star wars films directory web application concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#DFC334"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "4",
+      "project": "star-wars-films",
+      "category": "code",
+      "title": "Star wars films directory web application concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#DFC334"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "5",
+      "project": "colors",
+      "category": "design",
+      "title": "Colors color pallet web application concept design project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-journal-preview.png",
+        "style": {
+          "left": "50%",
+          "transform": "translate(-50%)",
+          "width": "420px",
+          "top": "5%",
+          "backgroundColor": "#63489C"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    },
+    {
+      "id": "6",
+      "project": "colors",
+      "category": "code",
+      "title": "Colors color pallet web application concept code project",
+      "description": "Exploring my thoughts and process in crafting the amazingly beautiful design and web application concept",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-journal-preview.png",
+        "style": {
+          "top": "50%",
+          "right": "5%",
+          "transform": "translateY(-50%)",
+          "width": "420px",
+          "backgroundColor": "#63489C"
+        }
+      },
+      "count": {
+        "likes": "1.5k",
+        "reads": "1.5k",
+        "comments": "1.5k"
+      }
+    }
+  ]

@@ -1,0 +1,89 @@
+[
+    {
+      "id": "1",
+      "name": "messenger-landingpage",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-preview.png",
+        "style": {
+          "width": "30.375em",
+          "justifySelf": "center",
+          "bottom": "3em"
+        }
+      },
+      "logo": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-logo.png",
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-logo-title.svg",
+      "description": "A chat application landing page concept inspired by whatsApp and WeChat",
+      "live": "https://ick-seshoka.github.io/messenger-landingpage",
+      "primaryColor": "#38B8A4",
+      "caseStudyOptions": [
+        {
+          "id": "1",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-design-case-study-option.png"
+        },
+        {
+          "id": "2",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/messenger-landingpage-code-case-study-option.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "star-wars-films",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-preview.png",
+        "style": {
+          "width": "38.625em",
+          "justifySelf": "center",
+          "right": "5.5em",
+          "top": "4em"
+        }
+      },
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-logo-title.png",
+      "description": "A Star Wars films search directory web application concept",
+      "live": "https://ick-seshoka.github.io/star-wars-films",
+      "primaryColor": "#DFC334",
+      "caseStudyOptions": [
+        {
+          "id": "3",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-design-case-study-option.png"
+        },
+        {
+          "id": "4",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/star-wars-films-code-case-study-option.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "colors",
+      "preview": {
+        "image": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-preview.png",
+        "style": {
+          "width": "36.75em",
+          "justifySelf": "end",
+          "bottom": "5em"
+        }
+      },
+      "logo": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-logo.png",
+      "logoTitle": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-logo-title.png",
+      "description": "A Color pallet web application concept, inspired by Material design color picker and shades viewer",
+      "live": "https://ick-seshoka.github.io/colors",
+      "primaryColor": "#63489C",
+      "caseStudyOptions": [
+        {
+          "id": "5",
+          "title": "design case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-design-case-study-option.png"
+        },
+        {
+          "id": "6",
+          "title": "code case study",
+          "optionImage": "https://raw.githubusercontent.com/ick-seshoka/design.code.world-resources/master/colors-code-case-study-option.png"
+        }
+      ]
+    }
+  ]
